@@ -3,6 +3,7 @@ Packing list
 ....
 ....
 Camera
+charger
 Adding shoes
 
 
